@@ -1,0 +1,10 @@
+== README
+
+Ruby on Rails Listing and Review application for therapists.
+
+The application is currently in beta: http://therapyguru.herokuapp.com
+
+Technologies:
+
+* Ruby version: 2.1.5
+* Rails version: 4.2.0
